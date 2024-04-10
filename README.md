@@ -27,8 +27,10 @@ To participate in the review process, please follow these steps:
 
 <ol>
 <li>Review the specification document.</li>
-<li>Open an issue in the GitHub issue tracker. Be sure to follow the submission rules as per Github issue template</li>
-<li></li>
+<li>Submit your comments, suggestions or feedback by opening an issue in the GitHub issue tracker. Be sure to follow the submission rules as per Github issue template. Note that Comments should be made by adding a comment to an open issue if there is a relevant issue already, or by creating a new issue. </li>
+<li>For proposals that are editorial in nature such as clarifying wording, fixing spelling mistakes or obvious logic errors, there is nothing else to do after submission. </li>
+<li>For proposals suggesting a substantive change - e.g. adding a new requirement, or changing a requirement so it will be tested differently,
+we request the commenter to complete</li>
 <li>The Working Group will consider the issues raised, reply in the public issue as they make progress or request clarification, and explain their resolution and the outcome of each issue. The group **MAY** invite individuals who have raised issues to participate in a discussion. Any member of EEA is automatically entitled to participate in the Working Group.</li>
 </ol>
 
