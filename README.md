@@ -17,9 +17,31 @@ The Working Group will consider the issues raised, reply in the public issue as 
 The group **MAY** invite individuals who have raised issues to participate in a discussion. Any member of EEA is automatically entitled to participate in the Working Group.
 
 
-Relevant Links:
+## EEA DLT Interoperability Specification
 
-[EEA DLT Interoperability Specification - Draft](https://entethalliance.github.io/crosschain-interoperability/draft_dlt-interop_techspec.html) </br>
-[EEA Crosschain Interoperability Working Group - Public Page] (https://entethalliance.github.io/crosschain-interoperability/)</br>
-[Enterprise Ethereum Alliance - Website] (https://entethalliance.org/)
+The current focus of the Working Group is the EEA Distributed Ledger Interoperability Specification, which is available for public review and comments from April 15th, 2024 to June 14th, 2024.
+
+### Public Review and Feedback
+
+We value your input and encourage you to review and provide feedback on the EEA DLT Interoperability Specification. The public review period is open from April 15th, 2024 to June 14th, 2024. </br>
+
+To participate in the review process, please follow these steps:
+
+<ol>
+<li>Review the specification document located: [here](https://entethalliance.github.io/crosschain-interoperability/draft_dlt-interop_techspec.html) </li>
+<li>If you have suggestions, feedback, or proposed changes, please open an issue in the GitHub issue tracker. Be sure to provide a clear description of your feedback and reference the relevant section of the specification.</li>
+<li>If you would like to contribute content or propose changes directly, please fork this repository, make your changes, and submit a pull request. Our team will review your contribution and provide feedback.</li>
+</ol>
+
+
+### Contact Us
+
+If you have any questions or need further assistance, please feel free to reach out to us at Chaals Nevile, Technical Programs Director - chaals@entethalliance.org. </br>
+
+Thank you for your interest in the EEA DLT Interoperability Specification. We look forward to your valuable feedback and contributions as we work together to advance interoperability standards in the blockchain and DLT ecosystem.
+
+## Relevant Links:
+
+[EEA Crosschain Interoperability Working Group - Public Page](https://entethalliance.github.io/crosschain-interoperability/)</br>
+[Enterprise Ethereum Alliance - Website](https://entethalliance.org/)
 
