@@ -28,24 +28,13 @@ To participate in the review process, please follow these steps:
 <ol>
 <li>Review the specification document.</li>
 <li>Submit your comments, suggestions or feedback by opening an issue in the GitHub issue tracker. Be sure to follow the submission rules as per Github issue template. Note that Comments should be made by adding a comment to an open issue if there is a relevant issue already, or by creating a new issue. </li>
-<li>For proposals that are editorial in nature such as clarifying wording, fixing spelling mistakes or obvious logic errors, there is nothing else to do after submission. </li>
-<li>For proposals suggesting a substantive change - e.g. adding a new requirement, or changing a requirement so it will be tested differently,
-we request the commenter to complete</li>
+<li>For proposals that are editorial in nature, such as clarifying wording, fixing spelling mistakes, or addressing obvious logic errors, no further action is required after submission.</li>
+<li>For proposals suggesting a substantive change, such as adding a new requirement or modifying a requirement in a way that affects testing, we request that the commenter completes the EEA Non-member participation agreement. This agreement serves two main purposes: firstly, it ensures that the contributor will not introduce material covered by a "submarine patent," which could potentially hinder the adoption and implementation of the specification. Secondly, it guarantees that any confidential information shared by the group, although typically minimal or non-existent, will be treated with confidentiality.</li>
 <li>The Working Group will consider the issues raised, reply in the public issue as they make progress or request clarification, and explain their resolution and the outcome of each issue. The group **MAY** invite individuals who have raised issues to participate in a discussion. Any member of EEA is automatically entitled to participate in the Working Group.</li>
 </ol>
 
-Comments should be made by adding a comment to an [open issue](https://github.com/EntEthAlliance/dlt-interop/issues) if there is a relevant issue already, or by creating a
-[new issue](https://github.com/EntEthAlliance/dlt-interop/issues/new/choose). If proposals are editorial in nature (i.e. they clarify wording, fix spelling mistakes or obvious logic errors),
-the process is fairly straightforward. If a proposal suggests a substantive change - e.g. adding a new requirement, or changing a requirement so it will be tested differently,
-we request the commenter to complete the [EEA Non-member participation agreement](https://github.com/EntEthAlliance/Ethtrust-public/blob/main/EEA-Non-Member-Participation-Agreement.pdf). Essentially this is an agreement not to introduce material covered by a "submarine patent",
+ [EEA Non-member participation agreement](https://github.com/EntEthAlliance/Ethtrust-public/blob/main/EEA-Non-Member-Participation-Agreement.pdf). Essentially this is an agreement not to introduce material covered by a "submarine patent",
 and to respect any confidential information provided by the group, although that will usually be minimal or none.
-
-When raising an issue, this is handled by the template, but if a comment requires an equivalent commitment,
-the agreement MUST be signed or the comment will be quarantined.
-
-
-
-
 
 ### Contact Us
 
