@@ -9,13 +9,13 @@ assignees: ccordi, chaals, math0graham
 
 ## About you
 
-**Name:**
-**Organization/Company:**
+**Name:** </br>
+**Organization/Company:**</br>
 
 ## About your review
 
-**Document:** EEA DLT Interoperability Specification
-**Section:**
+**Document:** EEA DLT Interoperability Specification</br>
+**Section:**    </br>
 
 Editorial issues do not result in changes to the requirements of the specification.
 
