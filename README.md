@@ -1,6 +1,6 @@
 # EEA DLT-Interop Public Repository
 
-This repository is to enable public comment on the work of the [EEA Crosschain Interoperability Working Group](https://entethalliance.org/groups/EthTrust).
+This repository is to enable public comment on the work of the [EEA Crosschain Interoperability Working Group](https://entethalliance.github.io/crosschain-interoperability/).
 
 Comments should be made by adding a comment to an [open issue](https://github.com/EntEthAlliance/dlt-interop/issues) if there is a relevant issue already, or by creating a
 [new issue](https://github.com/EntEthAlliance/dlt-interop/issues/new/choose). If proposals are editorial in nature (i.e. they clarify wording, fix spelling mistakes or obvious logic errors),
