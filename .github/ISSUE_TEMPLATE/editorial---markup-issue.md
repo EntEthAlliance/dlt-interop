@@ -7,6 +7,16 @@ assignees: ccordi, chaals, math0graham
 
 ---
 
+## About you
+
+**Name:**
+**Organization/Company:**
+
+## About your review
+
+**Document:** EEA DLT Interoperability Specification
+**Section:**
+
 Editorial issues do not result in changes to the requirements of the specification.
 
 It is appropriate to suggest wording changes for clarification, references to add, or to point out broken links or markup problems.
