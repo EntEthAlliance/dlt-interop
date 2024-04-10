@@ -33,8 +33,7 @@ To participate in the review process, please follow these steps:
 <li>The Working Group will consider the issues raised, reply in the public issue as they make progress or request clarification, and explain their resolution and the outcome of each issue. The group **MAY** invite individuals who have raised issues to participate in a discussion. Any member of EEA is automatically entitled to participate in the Working Group.</li>
 </ol>
 
- [EEA Non-member participation agreement](https://github.com/EntEthAlliance/Ethtrust-public/blob/main/EEA-Non-Member-Participation-Agreement.pdf). Essentially this is an agreement not to introduce material covered by a "submarine patent",
-and to respect any confidential information provided by the group, although that will usually be minimal or none.
+
 
 ### Contact Us
 
@@ -44,6 +43,7 @@ Thank you for your interest in the EEA DLT Interoperability Specification. We lo
 
 ## Relevant Links:
 
+[EEA Non-member participation agreement](https://github.com/EntEthAlliance/Ethtrust-public/blob/main/EEA-Non-Member-Participation-Agreement.pdf)
 [EEA Crosschain Interoperability Working Group - Public Page](https://entethalliance.github.io/crosschain-interoperability/)</br>
 [Enterprise Ethereum Alliance - Website](https://entethalliance.org/)
 
