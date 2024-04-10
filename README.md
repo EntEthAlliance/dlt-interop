@@ -1,4 +1,6 @@
-# EEA DLT-Interop Public Repository
+# EEA Crosschain Interoperability Public Repository
+
+Welcome to the public Github repository of the Enterprise Ethereum Alliance Crosschain Interoperability Working Group!
 
 This repository is to enable public comment on the work of the [EEA Crosschain Interoperability Working Group](https://entethalliance.github.io/crosschain-interoperability/).
 
@@ -13,3 +15,11 @@ the agreement MUST be signed or the comment will be quarantined.
 
 The Working Group will consider the issues raised, reply in the public issue as they make progress or request clarification, and explain their resolution and the outcome of each issue.
 The group **MAY** invite individuals who have raised issues to participate in a discussion. Any member of EEA is automatically entitled to participate in the Working Group.
+
+
+Relevant Links:
+
+[EEA DLT Interoperability Specification - Draft](https://entethalliance.github.io/crosschain-interoperability/draft_dlt-interop_techspec.html) </br>
+[EEA Crosschain Interoperability Working Group - Public Page] (https://entethalliance.github.io/crosschain-interoperability/)</br>
+[Enterprise Ethereum Alliance - Website] (https://entethalliance.org/)
+
