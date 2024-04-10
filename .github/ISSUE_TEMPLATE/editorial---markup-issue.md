@@ -17,7 +17,7 @@ Please include your name so your contribution can be publicly acknowledged in th
 ## About your review
 
 **Document:** EEA DLT Interoperability Specification</br>
-**Section:** Please the URL to identify the right section of the document. For instance </br>
+**Section:** Use the URL to identify the right section of the document. For instance </br>
 
 
 ## Guidelines
