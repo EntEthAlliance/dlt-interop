@@ -1,7 +1,7 @@
 ---
 name: Editorial / Markup issue
 about: Editorial clarifications, link and markup fixes, ...
-title: "[simple]"
+title: "[Editorial]"
 labels: editorial
 assignees: ccordi, chaals, math0graham
 
