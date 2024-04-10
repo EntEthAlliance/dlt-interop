@@ -9,7 +9,7 @@ assignees: ccordi, chaals, math0graham
 
 ## About you
 
-Please include a name so your contribution can be publicly acknowledged in the final publication.
+Please include your name so your contribution can be publicly acknowledged in the final publication.
 
 **Name:** </br>
 **Organization/Company:**</br>
