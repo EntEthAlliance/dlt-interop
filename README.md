@@ -29,6 +29,7 @@ To participate in the review process, please follow these steps:
 <li>Review the specification document.</li>
 <li>Open an issue in the GitHub issue tracker. Be sure to follow the submission rules as per Github issue template</li>
 <li></li>
+<li>The Working Group will consider the issues raised, reply in the public issue as they make progress or request clarification, and explain their resolution and the outcome of each issue. The group **MAY** invite individuals who have raised issues to participate in a discussion. Any member of EEA is automatically entitled to participate in the Working Group.</li>
 </ol>
 
 Comments should be made by adding a comment to an [open issue](https://github.com/EntEthAlliance/dlt-interop/issues) if there is a relevant issue already, or by creating a
@@ -40,8 +41,7 @@ and to respect any confidential information provided by the group, although that
 When raising an issue, this is handled by the template, but if a comment requires an equivalent commitment,
 the agreement MUST be signed or the comment will be quarantined.
 
-The Working Group will consider the issues raised, reply in the public issue as they make progress or request clarification, and explain their resolution and the outcome of each issue.
-The group **MAY** invite individuals who have raised issues to participate in a discussion. Any member of EEA is automatically entitled to participate in the Working Group.
+
 
 
 
