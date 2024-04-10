@@ -1,7 +1,7 @@
 ---
 name: Feature request
 about: Suggest an idea for this project
-title: "[BUG/FEATURE]"
+title: "[FEATURE]"
 labels: Not yet considered
 assignees: chaals
 
