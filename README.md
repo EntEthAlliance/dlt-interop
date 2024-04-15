@@ -18,7 +18,7 @@ It is designed to support enterprise blockchain networks using diverse underlyin
 
 ### Public Review Process
 
-The public review process is an integral part of ensuring due process and consensus is achieved in the development of the Enterprise Ethereum Alliance (EEA) standards and guidelines.
+The public review process is an integral part of ensuring due process and consensus are achieved in the development of the Enterprise Ethereum Alliance (EEA) standards and guidelines.
 We value your input and encourage you to provide feedback on the EEA DLT Interoperability Specification. The public review period is open from April 15th, 2024 to June 14th, 2024. </br>
 
 The draft specification is available: [EEA DLT Interoperability Specification Draft](https://entethalliance.github.io/crosschain-interoperability/draft_dlt-interop_techspec.html).
