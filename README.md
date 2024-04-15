@@ -43,7 +43,7 @@ Thank you for your interest in the EEA DLT Interoperability Specification. We lo
 
 ## Relevant Links:
 
-[EEA Non-member participation agreement](https://github.com/EntEthAlliance/Ethtrust-public/blob/main/EEA-Non-Member-Participation-Agreement.pdf)</br>
+[EEA Non-member participation agreement](https://github.com/EntEthAlliance/dlt-interop/blob/main/EEA-Non-Member-Participation-Agreement.pdf)</br>
 [EEA Crosschain Interoperability Working Group - Public Page](https://entethalliance.github.io/crosschain-interoperability/)</br>
 [Enterprise Ethereum Alliance - Website](https://entethalliance.org/)
 
